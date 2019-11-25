@@ -10,7 +10,7 @@ Describe the components, or pieces, that make up your project.
 
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
 
-spaceship, spaceship when it crashes, [spaceship after boost], variety of asteroids, space background, points, 'click to start,' 'GAME OVER'
+spaceship and rocket noise, spaceship when it crashes and its noise, [spaceship after boost], variety of asteroids, space background, points, 'click to start,' 'GAME OVER'
 ## When your project is completed, you will then add the following sections:
 
 ## Timeline

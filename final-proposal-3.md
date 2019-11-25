@@ -5,10 +5,6 @@ You're a celebrity signing autographs to adoring fans.
 Fans come up to you so you can autograph your headshot. Each time they comment on how much they adore you, as you sign. In the background, you'll hear crowds of cheering fans.
 
 ## Component Parts
-
-Describe the components, or pieces, that make up your project.
-
-Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
 Headshots, [babies, boobs, and butts might be asked to be signed], variety of voices commenting, crowd cheering, you can autograph with a touchscreen and mouse, items swiping right after being signed.
 
 ## When your project is completed, you will then add the following sections:

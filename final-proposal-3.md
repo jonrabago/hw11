@@ -14,7 +14,7 @@ Headshots, [babies, boobs, and butts might be asked to be signed], variety of vo
 What did you do in each of the past four weeks?
 
 - Week 1: Write Proposal, flush out initial code for your idea
-- Week 2:
+- Week 2: Changed the idea to creating your own profile picture and worked on the coding
 - Week 3:
 - Week 4: Present!
  
